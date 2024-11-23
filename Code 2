@@ -57606,7 +57606,6 @@ applyTooltipsToObject(campaignTrail_temp.answer_feedback_json);
 pk_dict = {
     "50": [
         "(+1 ByrdFlops)",
-        "(+1 ByrdFlops)"
     ],
     "8909": [
         "(+2 ConRep)"
@@ -57616,7 +57615,6 @@ pk_dict = {
     ],
     "8926": [
         "(+2 ConRep)",
-        "(+1 // Wins)"
     ],
     "8927": [
         "(-1 ConRep)"
@@ -57643,7 +57641,6 @@ pk_dict = {
     ],
     "8957": [
         "(+1 ConRep)",
-        "(+1 ConRep)"
     ],
     "8969": [
         "(+1 AvertedWins)"
