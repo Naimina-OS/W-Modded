@@ -57604,6 +57604,10 @@ applyTooltipsToObject(campaignTrail_temp.answers_json);
 applyTooltipsToObject(campaignTrail_temp.answer_feedback_json);
 
 pk_dict = {
+    "50": [
+        "(+1 ByrdFlops)",
+        "(+1 ByrdFlops)"
+    ],
     "8909": [
         "(+2 ConRep)"
     ],
@@ -57611,35 +57615,35 @@ pk_dict = {
         "(+1 ConRep)"
     ],
     "8926": [
+        "(+2 ConRep)",
         "(+1 // Wins)"
     ],
     "8927": [
-        "(+1 ConRep)"
+        "(-1 ConRep)"
     ],
     "8928": [
+        "(+1 HelpedRussia)",
         "(+2 Jingo)"
     ],
     "8929": [
         "(+1 Cred)"
     ],
     "8946": [
-        "(+3 ConRep)"
+        "(-3 ConRep)"
     ],
     "8948": [
         "(+1 Cred)"
     ],
     "8950": [
-        "(+1 Denny)"
+        "(+1 ConRep)",
+        "(-1 Denny)"
     ],
     "8956": [
         "(+1 AvertedWins)"
     ],
     "8957": [
+        "(+1 ConRep)",
         "(+1 ConRep)"
-    ],
-    "8965": [
-        "(+1 RummyGone)",
-        "(+2 Cred)"
     ],
     "8969": [
         "(+1 AvertedWins)"
@@ -57658,6 +57662,8 @@ pk_dict = {
         "(+1 Jingo)"
     ],
     "8979": [
+        "(+2 Jingo)",
+        "(+1 Wins)",
         "(+1 Wars)"
     ],
     "8986": [
@@ -57685,7 +57691,7 @@ pk_dict = {
         "(+1 Wins)"
     ],
     "9038": [
-        "(+1 Wins)"
+        "(-1 Wins)"
     ],
     "9086": [
         "(+1 Wins)"
@@ -57693,18 +57699,11 @@ pk_dict = {
     "9087": [
         "(+1 ConRep)"
     ],
-    "9096": [
-        "(+1 RummyGone)",
-        "(+2 Cred)"
-    ],
     "9099": [
         "(+1 AvertedWins)"
     ],
     "9101": [
         "(+1 Wins)"
-    ],
-    "9103": [
-        "(+1 ConRep)"
     ],
     "9106": [
         "(+2 Wins)"
@@ -57712,15 +57711,12 @@ pk_dict = {
     "9108": [
         "(+1 Wins)"
     ],
-    "9111": [
-        "(+1 ConRep)",
-        "(+1 ConRep)"
-    ],
     "9113": [
         "(+1 goodChina)",
         "(+1 Cred)"
     ],
     "9119": [
+        "(+1 Jingo)",
         "(+1 Wars)"
     ],
     "9225": [
@@ -57739,6 +57735,7 @@ pk_dict = {
         "(+1 Wins)"
     ],
     "9244": [
+        "(+1 Wins)",
         "(+1 EnronFlop)"
     ],
     "9248": [
@@ -57772,6 +57769,7 @@ pk_dict = {
         "(+1 EnronFlop)"
     ],
     "9296": [
+        "(+1 Wins)",
         "(+1 Wars)"
     ],
     "9302": [
@@ -57853,6 +57851,7 @@ pk_dict = {
         "(+5 Jingo)"
     ],
     "12990": [
+        "(+1 ByrdFlops)",
         "(+5 Jingo)"
     ],
     "12991": [
@@ -57958,10 +57957,10 @@ pk_dict = {
         "(+1 Wars)"
     ],
     "14541": [
-        "(+1 Cred)"
+        "(-1 Cred)"
     ],
     "14547": [
-        "(+1 Cred)"
+        "(-1 Cred)"
     ]
 }
 
